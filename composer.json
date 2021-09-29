@@ -1,0 +1,17 @@
+{
+    "description": "PBB Installer",
+    "name": "afa28/pbb-installer",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://github.com/afa28",
+    "support": {
+        "source": "https://github.com/afa28/pbb-installer"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "codeigniter/framework": "~3.1"
+    },
+    "suggest": {
+        "paragonie/random_compat": "Provides better randomness in PHP 5.x"
+    }
+}
